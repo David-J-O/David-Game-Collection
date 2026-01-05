@@ -48,7 +48,7 @@ I was responsible for
 
 Rise of the Zombots:
 This game is a simple Doom clone I helped work on for a college team project that uses the unity engine.
-The objective is to traverse 4 levels and beat the final boss, inside the levels you must battle a variety of enemies and collect key cards to unlock doors
+The objective is to traverse 4 levels and beat the final boss, inside the levels you must battle a variety of enemies and collect key cards to unlock doors.
 I was responsible for 
   - enemies (enemy types, enemy logic, boss fight, boss logic)
   - Levels 1 and 4 (designed and assembled in unity editor)
