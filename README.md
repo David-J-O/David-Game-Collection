@@ -1,6 +1,4 @@
 # David-Game-Collection
-This is a collection of games I have worked on
-
 ```
  ________  _______   _______    ______   _______   __  __
 |        \|       \ |       \  /      \ |       \ |  \|  \
@@ -33,6 +31,15 @@ This is a collection of games I have worked on
 | $$  | $$ \$$    $$  \$$  $$      | $$     \$$    $$ \$$    $$| $$  | $$ \$$    $$
  \$$   \$$  \$$$$$$    \$$$$        \$$      \$$$$$$   \$$$$$$  \$$   \$$  \$$$$$$$
 ```
+
+
+Hello, my name is David and this github repository is dedicated to holding the different games I've worked on.
+I am most familiar with the Visual Studio IDE and I can understand C++ and C# languages, I have some experience working with the Unity game engine and a little bit of Unreal Engine 4.
+I have worked on multiple team projects through college where we utilized github/Jira/Trello to organize our work.
+You can contact me at orossdavid360@gmail.com or just yell really loud until I can hear you.
+
+
+
      
 
 Space Race:
