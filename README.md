@@ -30,17 +30,21 @@
 | $$  | $$| $$__/ $$ | $$|  \      | $$    | $$__/ $$| $$__/ $$| $$  | $$| $$__| $$
 | $$  | $$ \$$    $$  \$$  $$      | $$     \$$    $$ \$$    $$| $$  | $$ \$$    $$
  \$$   \$$  \$$$$$$    \$$$$        \$$      \$$$$$$   \$$$$$$  \$$   \$$  \$$$$$$$
-```
 
 
+
+INTRODUCTION:
 Hello, my name is David and this github repository is dedicated to holding the different games I've worked on.
-I am most familiar with the Visual Studio IDE and I can understand C++ and C# languages, I have some experience working with the Unity game engine and a little bit of Unreal Engine 4.
+I am most familiar with the Visual Studio IDE and I can understand C++ and C# languages.
+I have some experience working with the Unity game engine and a little bit of Unreal Engine 4.
 I have worked on multiple team projects through college where we utilized github/Jira/Trello to organize our work.
+
+
+CONTACT INFO:
 You can contact me at orossdavid360@gmail.com or just yell really loud until I can hear you.
 
 
-
-     
+GAMES I'VE WORKED ON:
 
 Space Race:
 This game is a simple galaga clone I helped work on for a college team project that uses the vulkan engine.
@@ -50,9 +54,6 @@ I was responsible for
   - wave logic (the number of enemies that appear in a wave randomly 1-5, locking lanes when occupied so new waves don't try to move to an already occupied lane)
   - stage logic (number of enemies to spawn into a stage, modifiers that increase enemy amount/speed with every stage, pauses between stages)
 
-
-
-
 Rise of the Zombots:
 This game is a simple Doom clone I helped work on for a college team project that uses the unity engine.
 The objective is to traverse 4 levels and beat the final boss, inside the levels you must battle a variety of enemies and collect key cards to unlock doors.
@@ -61,9 +62,4 @@ I was responsible for
   - Levels 1 and 4 (designed and assembled in unity editor)
   - grappling hook
   - textures (enemy textures, some blood/oil decals on the walls)
-
-
-
-
-
-
+```
