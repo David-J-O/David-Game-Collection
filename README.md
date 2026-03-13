@@ -62,4 +62,13 @@ I was responsible for
   - Levels 1 and 4 (designed and assembled in unity editor)
   - grappling hook
   - textures (enemy textures, some blood/oil decals on the walls)
+
+Rat Exterminator:
+This game is a simple hide and seek/hunting game (not entirely sure on what genre it would be), that I worked on for a college team project in Unreal Engine 5.6.
+The objective is to find and eliminate all rats before the timer runs out, to accomplish this the player can use their trusty baseball bat
+or pick up and throw objects found around the building.
+I was responsible for
+- enemies (movement, player detection, spawning, death effect)
+- Tutorial Level (Designed and assembled)
+- Mansion Level (Designed and assembled, and hid easter egg)
 ```
